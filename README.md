@@ -3,15 +3,15 @@
 # EU Server Solution
 ### Version: 1.9
   ```sh
-  .git clone --recursive -b 1.9.0 https://github.com/ZON3DEV/AionLightning.git
+  git clone --recursive -b 1.9.0 https://github.com/ZON3DEV/AionLightning.git
   ```
 ### Version: 4.6
   ```sh
-  .git clone --recursive -b 4.6.0 https://github.com/ZON3DEV/AionLightning.git
+  git clone --recursive -b 4.6.0 https://github.com/ZON3DEV/AionLightning.git
   ```
 ### Version: 7.8
   ```sh
-  .git clone --recursive -b 7.8.0 https://github.com/ZON3DEV/AionLightning.git
+  git clone --recursive -b 7.8.0 https://github.com/ZON3DEV/AionLightning.git
   ```
 </div>
 <br></br>
